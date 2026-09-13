@@ -17,10 +17,10 @@
 Tharavadu 95 is a retro Windows 95 simulator set in a Kerala household. Powered by AMMA_KERNEL.SYS, it tracks chores, screen time and PSC prep. Keep Amma’s stress below 100% or face the dreaded BSOD. With Malayalam Manglish, Kerala-inspired visuals and nostalgic sounds, chaos becomes a survival game
 
 ### The Problem (that doesn't exist)
-How to cool of the stress of Malayali Amma.
+The Problem: Modern operating systems monitor CPU and RAM, but completely fail to answer the real question: What if Amma was an OS? Current software has zero architecture to handle maternal kernel panics—monitoring unread PSC books, missing Milton bottles, and terrace laundry before the rain hits—leaving households completely defenseless against a sudden Martyr Mode crash.
 
 ### The Solution (that nobody asked for)
-The OS teaches you with various scenarios that you'll get to experience.
+Enter Tharavadu 95—the world’s first maternal-first operating system powered by AMMA_KERNEL.SYS. It replaces useless CPU metrics with a live Amma Stress Meter, provides arcade-speed terrace laundry rescue (MAZHA_RUN.EXE), enforces respect on family WhatsApp forwards, and deploys a built-in paternal firewall (ACHAN_DAEMON.SYS) to drop maternal rage before the household hits a full Blue Screen of Death.
 
 ## Technical Details
 ### Technologies/Components Used
